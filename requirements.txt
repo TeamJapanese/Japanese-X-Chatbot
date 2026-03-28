@@ -1,0 +1,11 @@
+pyrogram==2.0.106
+tgcrypto
+pyromod
+aiohttp
+flask
+flask-restful
+requests
+python-dotenv
+psutil
+pytz
+pymongo
